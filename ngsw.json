@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1774230530101,
+  "timestamp": 1774231572364,
   "index": "/DevWorkspace/index.csr.html",
   "assetGroups": [
     {
@@ -11,6 +11,7 @@
         "ignoreVary": true
       },
       "urls": [
+        "/DevWorkspace/chunk-2B5XWICG.js",
         "/DevWorkspace/chunk-2SFCXNBE.js",
         "/DevWorkspace/chunk-2XLRFGG5.js",
         "/DevWorkspace/chunk-3QV3FG4C.js",
@@ -37,7 +38,6 @@
         "/DevWorkspace/chunk-JGDRNPQP.js",
         "/DevWorkspace/chunk-KIQ7SF2Q.js",
         "/DevWorkspace/chunk-KJAQ4PYS.js",
-        "/DevWorkspace/chunk-KUR6RYQ4.js",
         "/DevWorkspace/chunk-KUVJ2TZW.js",
         "/DevWorkspace/chunk-MKTAHMV5.js",
         "/DevWorkspace/chunk-OAT2P77K.js",
@@ -60,7 +60,7 @@
         "/DevWorkspace/chunk-YTYY62YH.js",
         "/DevWorkspace/chunk-ZHWAGC65.js",
         "/DevWorkspace/chunk-ZIS3AC2G.js",
-        "/DevWorkspace/main-DRONFQTW.js",
+        "/DevWorkspace/main-KRYQBAKW.js",
         "/DevWorkspace/styles-4IG5EODO.css"
       ],
       "patterns": []
@@ -3548,6 +3548,7 @@
     "/DevWorkspace/assets/monaco/min/vs/yaml-DYGvmE88.js": "757aa74104b326b44b43cd159687d2ae2fcadcbd",
     "/DevWorkspace/assets/monaco/monaco.d.ts": "74d765527f02a126295189ab4b1a17a785af2ba2",
     "/DevWorkspace/assets/monaco/package.json": "10d4efd8ce58fa7c6ce5a931f96d8127d2ef9c40",
+    "/DevWorkspace/chunk-2B5XWICG.js": "e030f9990ec37d0ec92d636dbc152589a71a1368",
     "/DevWorkspace/chunk-2SFCXNBE.js": "ff4de00ddb02ef2d61fe93c7f7a90d4f1dce9cbf",
     "/DevWorkspace/chunk-2XLRFGG5.js": "c2c8586402dac9eaba77ca920a4671378c6f4a4a",
     "/DevWorkspace/chunk-3QV3FG4C.js": "34bbd8d3acd911cf4aa5560230c66d92fd10f2c7",
@@ -3574,7 +3575,6 @@
     "/DevWorkspace/chunk-JGDRNPQP.js": "a127e616b9764b41849e527338e724c7200199e7",
     "/DevWorkspace/chunk-KIQ7SF2Q.js": "b78deb48a734ea06bea2c7e5c966304df5b559b1",
     "/DevWorkspace/chunk-KJAQ4PYS.js": "81e5ab2212d15698de5321a8b9fad83d04eca3fd",
-    "/DevWorkspace/chunk-KUR6RYQ4.js": "e2528053cee295f3f6aaf5724bc67e2257ce62aa",
     "/DevWorkspace/chunk-KUVJ2TZW.js": "ef70fd912a0c707f5cc278fb536c31eed92294f1",
     "/DevWorkspace/chunk-MKTAHMV5.js": "99c4f7701ea9248e4b4acb05eccf12d2735c95a8",
     "/DevWorkspace/chunk-OAT2P77K.js": "17625d4ca0ad75b62c7ab95c55b7e6a68fcc0985",
@@ -3598,7 +3598,7 @@
     "/DevWorkspace/chunk-ZHWAGC65.js": "9f65c75d63d9cb05e888f2f62d6905c7eb72201e",
     "/DevWorkspace/chunk-ZIS3AC2G.js": "83e904f3800bd4c8a8c90f5c964be320390da944",
     "/DevWorkspace/favicon.svg": "cdc2358f41b824053465e8991ab73b01891e469d",
-    "/DevWorkspace/main-DRONFQTW.js": "31b6fb33aed27019391d1313bc3de8a1d1778518",
+    "/DevWorkspace/main-KRYQBAKW.js": "5bd7645d1bfe3cd082cb0fdc083edddd3ec80ac8",
     "/DevWorkspace/styles-4IG5EODO.css": "e790c39595859c8e65f30d1c492a1a59e13f58f1"
   },
   "navigationUrls": [
